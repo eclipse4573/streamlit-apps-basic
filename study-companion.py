@@ -7,8 +7,8 @@ import streamlit as st
 import pandas as pd
 
 st.title('Study Companion')
-st.video('video.mp4', loop = True)
-st.audio('audio.mp3')
+# st.video('video.mp4', loop = True)
+# st.audio('audio.mp3')
 
 data = {
     'Monday': ['Maths', 'Science'],
